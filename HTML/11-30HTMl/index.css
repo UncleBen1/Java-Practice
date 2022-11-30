@@ -1,0 +1,91 @@
+.left-top{
+    margin-top:20px;
+    width: 834px;
+    height: 415px;
+    border:1px solid rgb(223,220,221);
+}
+
+.left-top label{
+    padding:12px 28px 0px 0px;
+}
+
+.new_pic{
+    background:url(./web/image/截图\ 2022-11-30\ 16-40-47.png);
+    width: 834px;
+    height: 49px;
+}
+
+.new_pic p{
+    font-size:18px;
+    line-height:24px;
+    padding:12px 0 0 31px;
+    float:left;
+    color:#FFFFFF;
+}
+
+.more a{
+    font-size:12px;
+    font-family:'宋体';
+    color:#cd161e;
+}
+
+.slide{
+    width:600px;
+    height:339px;
+    float:left;
+}
+
+#lun2{
+    padding:12px 0px 0px 11px;
+}
+
+.sile .carouse.slideItem{
+    width:100%;
+    position:absolute;
+}
+
+.banner-img{
+    width:600px;
+    height: 339px;
+}
+
+.new_xiangqing{
+    position:absolute;
+    top:285px;
+    width: 560px;
+    padding:15px 20px;
+    background: rgb(0,0,0,0.5);
+}
+
+.new_xiangqing p{
+    color:#FFF;
+    font-size:18px;
+    background-repeat:no-repeat;
+    background-position: right;
+}
+
+.new2{
+    padding:10px 15px 0px 0px;
+}
+
+.new2 img{
+    width: 196px;
+    height:110px;
+}
+
+.new2_pic{ }
+
+
+.new_xiaoqing1{
+    position: absolute;
+    width:182px;
+    margin-top:-43px;
+    padding:10px 7px;
+    background:rgba(0,0,0,0.5);
+}
+
+.new_xiaoqing1 p{
+    color:#FFF;
+    font-size:14px;
+}
+
